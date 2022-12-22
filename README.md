@@ -16,4 +16,4 @@
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-14 at 12 20 35](https://user-images.githubusercontent.com/22374792/209162909-1feef999-5e30-49bc-a3a8-40c27332f265.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-14 at 12 20 41](https://user-images.githubusercontent.com/22374792/209162924-a07bdec9-e8a2-43bb-bb54-8b1a6a542ad2.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-14 at 12 20 50](https://user-images.githubusercontent.com/22374792/209162954-36825163-99a5-48cf-acdf-cdaade56e76c.png)
-![Uploading Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-15 at 15.48.56.png…]()
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-15 at 15 48 56](https://user-images.githubusercontent.com/22374792/209163302-7ab5d380-0dad-49c4-b3eb-f3cc22cc8f8b.png)
